@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Faisal</h1>
+<h3 align="center">Full Stack Developer | Laravel | Vue | React</h3>
 
-<!--
-**faisal-sameer/faisal-sameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I work with Laravel, Vue.js, React, and MySQL
+- 🚀 Interested in building dashboards and web systems
+- 🔧 Currently improving my coding and deployment skills
+- 📫 Contact me: your-email@example.com
+
+---
+
+### 🛠️ Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,react,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=faisal-sameer&show_icons=true" />
+</p>
